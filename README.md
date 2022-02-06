@@ -1,2 +1,2 @@
 Study_Kotlin
-for android, spring
+for android
